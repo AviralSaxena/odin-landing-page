@@ -111,7 +111,7 @@ button{
 
 .quote-section{
     background-color: #e5e7eb;
-    padding: 92px 192px;
+    padding: 128px 256px;
     margin: 92px 0px;
 }
 
@@ -127,3 +127,29 @@ button{
     font-weight: bold;
 }
 
+.cta-section{
+    margin: 92px 192px;
+    background-color: #3882f6;
+    border-radius: 9px;
+    padding: 32px 128px;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.cta-heading{
+    font-weight: bold;
+}
+
+.cta-sign-up-button{
+    border: 2px solid #e5e7eb;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px 0px;
+}
